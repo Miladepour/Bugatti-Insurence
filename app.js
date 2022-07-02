@@ -71,12 +71,12 @@ name2 = [];
 age = [];
 pocode = [];
 result = [];
-ChironPrice = ['3000'];
-DivoPrice = ['5000'];
-VeyronPrice = ['10000'];
-my_60Plus = ['20000'];
-my_60PlusChiron = ['6000'];
-my_60PlusDivo = ['10000'];
+ChironPrice = ['£3000 per year'];
+DivoPrice = ['£5000 per year'];
+VeyronPrice = ['£10000 per year'];
+my_60Plus = ['£20000 per year'];
+my_60PlusChiron = ['£6000 per year'];
+my_60PlusDivo = ['£10000 per year'];
 
 
 document.getElementById('submit').addEventListener('click', (event) => {
