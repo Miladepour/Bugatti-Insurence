@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap');
+
+body {
+    background-image: url(./sam-pearce-warrilow-K_H9cYGjek8-unsplash.jpg);
+    background-size: 100%;
+    font-family: 'Montserrat';
+    font-weight: 400;
+
+}
+.container {
+    width: 20vw;
+    margin-left: 40px;
+    margin-top: 40px;
+    text-align: left;
+    padding: 100px;
+    background-color: white;
+    opacity: 60%;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 800;
+    text-transform: uppercase;
+    color: red;
+    opacity: 100%;
+}
+
+#submit {
+    padding: 10px;
+    border: none;
+    background-color: red;
+    font-size: 15px;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+input,
+select {
+    width: 300px;
+}
+
